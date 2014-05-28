@@ -16,7 +16,7 @@
         {
             "type": "vcs",
             "url": "https://github.com/mbeech/PHPoAuthLib"
-        },
+        }
     ],
     "require": {
         "php": ">=5.3",     
